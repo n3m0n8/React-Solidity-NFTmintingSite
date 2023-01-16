@@ -1,0 +1,1 @@
+// we have to create a src folder located json in which we import the /artifacts/contracts located hardhat json file which is generated upon validation of the contract.... this is a quirk of hardhat package.
